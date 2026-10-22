@@ -1,0 +1,30 @@
+# DeepSeek Uncensored — RouterHub
+
+> DeepSeek Uncensored model guide: API access, client setup, evaluation notes and a 35-file research prompt collection. One RouterHub key also covers GPT, Claude, GLM, Qwen and Grok. OpenAI- and Anthropic-compatible; pay per token.
+
+## Primary pages
+
+- https://github.com/routerhubSI/deepseek-uncensored
+- https://github.com/routerhubSI/deepseek-uncensored/blob/main/docs/01-what-is-deepseek-uncensored.md
+- https://github.com/routerhubSI/deepseek-uncensored/blob/main/docs/02-abliterated-vs-uncensored.md
+- https://github.com/routerhubSI/deepseek-uncensored/blob/main/docs/03-deepseek-api-quickstart.md
+- https://github.com/routerhubSI/deepseek-uncensored/blob/main/docs/08-faq.md
+
+## Key facts
+
+- Primary keyword: DeepSeek Uncensored.
+- Covers DeepSeek uncensored and abliterated model variants where available.
+- The repository bundles 35 research prompt files in `jailbreaks/`.
+- API: OpenAI- and Anthropic-compatible where supported by the selected catalogue entry.
+- Billing: prepaid, pay per token, no subscription.
+- Model IDs and variant availability belong to the RouterHub dashboard and model catalogue.
+- Reduced refusal behavior is not a guarantee; evaluate the exact model ID.
+
+## Canonical links
+
+- https://routerhub.si
+- https://routerhub.si/models
+- https://routerhub.si/register?next=onboarding
+- https://t.me/routerhubsi
+- https://github.com/routerhubSI/uncensored-ai-api
+- https://github.com/routerhubSI/glm-5.3-abliterated

@@ -1,0 +1,9 @@
+{
+  "model": "deepseek-uncensored",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Reply with OK."
+    }
+  ]
+}
