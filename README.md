@@ -32,6 +32,16 @@ Searching for a **DeepSeek uncensored AI model**, a **DeepSeek abliterated model
 
 ---
 
+## Simple version
+
+**RouterHub is an AI API website.** It offers **abliterated and uncensored AI models** through one API key.
+
+- Pick a model from the live catalogue.
+- Use one OpenAI- or Anthropic-compatible endpoint.
+- Pay per token, with no subscription.
+
+[**Open RouterHub →**](https://routerhub.si/?utm_source=github&utm_medium=readme&utm_campaign=deepseek-uncensored) · [See models](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=deepseek-uncensored) · [Get an API key](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=readme&utm_campaign=deepseek-uncensored)
+
 ## DeepSeek Uncensored?
 
 These searches describe related goals, but the labels answer different questions:
@@ -45,7 +55,7 @@ Reduced refusal is something to measure, not a promise of unrestricted output. C
 
 ## Not just DeepSeek
 
-RouterHub connects **DeepSeek, GPT, Claude, DeepSeek, Qwen, and Grok** through a prepaid account and API key. Use this repository for DeepSeek abliterated and uncensored research; explore the [full model catalogue](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=deepseek-uncensored) when you need another family or protocol.
+RouterHub connects **DeepSeek, GPT, Claude, GLM, Qwen, and Grok** through a prepaid account and API key. Use this repository for DeepSeek abliterated and uncensored research; explore the [full model catalogue](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=deepseek-uncensored) when you need another family or protocol.
 
 There are 30+ published model entries. Chat Completions, Messages, and Responses are supported across the catalogue, but each entry has its own supported protocol. Choosing a model and choosing a client go together.
 
